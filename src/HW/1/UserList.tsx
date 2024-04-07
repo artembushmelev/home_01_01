@@ -1,6 +1,6 @@
 import React from "react";
 
-type AddressType = {
+export type AddressType = {
   street: string; // ПОДПРАВЛЯЕМ any
   city: string; // ПОДПРАВЛЯЕМ any
 };
